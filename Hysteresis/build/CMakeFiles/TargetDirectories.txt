@@ -1,3 +1,0 @@
-/home/leica-admin/projects/CppPlayground/MarcelsTools/Hysterie/build/CMakeFiles/Tester.dir
-/home/leica-admin/projects/CppPlayground/MarcelsTools/Hysterie/build/CMakeFiles/edit_cache.dir
-/home/leica-admin/projects/CppPlayground/MarcelsTools/Hysterie/build/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/leica-admin/projects/CppPlayground/MarcelsTools/Hysterie/build",
-  "command": "/usr/bin/c++ -I/home/leica-admin/projects/CppPlayground/MarcelsTools/Hysterie/codeToTest -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/Tester.dir/test/tests.cpp.o -c /home/leica-admin/projects/CppPlayground/MarcelsTools/Hysterie/test/tests.cpp",
-  "file": "/home/leica-admin/projects/CppPlayground/MarcelsTools/Hysterie/test/tests.cpp"
-}
-]
